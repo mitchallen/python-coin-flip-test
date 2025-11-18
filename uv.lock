@@ -4,11 +4,11 @@ requires-python = ">=3.12"
 
 [[package]]
 name = "mitchallen-coin"
-version = "0.1.2"
+version = "1.0.3"
 source = { registry = "https://pypi.org/simple" }
-sdist = { url = "https://files.pythonhosted.org/packages/f8/5f/ec20b52f03c132889cd2f4c5636dd51f193ec3ded6cc7c77dde8eb04ab09/mitchallen_coin-0.1.2.tar.gz", hash = "sha256:5e98d5ded0846bd6275d69c22fccf1c153b96379df8c8e76d1e355ba303d1ce2", size = 7141, upload-time = "2025-11-18T04:15:44.769Z" }
+sdist = { url = "https://files.pythonhosted.org/packages/ab/aa/bd3e96c968a575ec0897e601bce02df96465455c4e855b558a1cccfe2b4f/mitchallen_coin-1.0.3.tar.gz", hash = "sha256:20ca36c78dad186fbb3e1834d5a5745c2cdd263a0f35ec1f7e402587e11bf441", size = 28678, upload-time = "2025-11-18T15:02:07.292Z" }
 wheels = [
-    { url = "https://files.pythonhosted.org/packages/21/85/b773b9a541126f6b3a82516dd76ae6ad22e13109149d886d332e653ec0fc/mitchallen_coin-0.1.2-py3-none-any.whl", hash = "sha256:7d172f2fa4c22fc92c2bd01f046ad2dffef0cafca68c4463f36f594b43aee308", size = 3411, upload-time = "2025-11-18T04:15:43.361Z" },
+    { url = "https://files.pythonhosted.org/packages/d3/fd/6d834bb3c7af7f4102c3bc0f20f0a583ccf371a63d91a8876d65932f8b1b/mitchallen_coin-1.0.3-py3-none-any.whl", hash = "sha256:b635388c51b4ee237d873b8fef31162ab5b68f4b81eb29fe1432b2c1cf83d806", size = 3715, upload-time = "2025-11-18T15:02:06.283Z" },
 ]
 
 [[package]]
